@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "801047669078",
+    "firebase_url": "https://webscrappingciudades-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "webscrappingciudades",
+    "storage_bucket": "webscrappingciudades.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801047669078:android:eb0eddebdea4b98ca08ef7",
+        "android_client_info": {
+          "package_name": "com.example.examenpmdmrecu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801047669078-mrhbcd3nl3jgcfvvde8l7l3st96co6rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvSSN_TsNGHED_TOnL8GV9XihEm4rL-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801047669078-mrhbcd3nl3jgcfvvde8l7l3st96co6rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801047669078:android:ae1744f0aff328eca08ef7",
+        "android_client_info": {
+          "package_name": "com.example.repasot2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801047669078-mrhbcd3nl3jgcfvvde8l7l3st96co6rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvSSN_TsNGHED_TOnL8GV9XihEm4rL-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801047669078-mrhbcd3nl3jgcfvvde8l7l3st96co6rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801047669078:android:43511868a342ec6ca08ef7",
+        "android_client_info": {
+          "package_name": "com.example.webscrappingciudades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801047669078-mrhbcd3nl3jgcfvvde8l7l3st96co6rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvSSN_TsNGHED_TOnL8GV9XihEm4rL-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801047669078-mrhbcd3nl3jgcfvvde8l7l3st96co6rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
